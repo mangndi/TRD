@@ -26,7 +26,7 @@ class abc extends StatelessWidget {
       "high": 190.0,
       "low": 155.0,
       "close": 165,
-      "volumeto": 4000.0
+      "volumeto": 5600.0
     },
     {
       "open": 165.0,
